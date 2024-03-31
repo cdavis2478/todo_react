@@ -1,0 +1,40 @@
+body {
+    background-color: slategray;
+}
+
+table, th, td {
+    border: 2px solid;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: auto;
+}
+
+table {
+    text-align: center;
+}
+
+h1 {
+    margin-left: 10%;
+}
+
+.inputName {
+    margin-left: 15%;
+    padding: .5%;
+}
+
+.inputDescription {
+    margin-left: 15%;
+    padding: .5%;    
+}
+
+.inputDeadline {
+    margin-left: 15%;
+    padding: .5%;    
+}
+
+.button {
+    margin-left: 20%;
+}
